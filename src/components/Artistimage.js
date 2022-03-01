@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
         height: 30,
         width: 80,
         textAlign: "center",
-        lineHeight: 23,
+        lineHeight: 28,
     }
 });
 
